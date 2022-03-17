@@ -5,5 +5,5 @@ def main(a):
     Returns:
         bool
     """
-    # Write your code here
-    return 
+    from math import sqrt    
+    return sqrt(a)//1*(a//sqrt(a))==a  
